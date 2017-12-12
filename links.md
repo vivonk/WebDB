@@ -1,7 +1,7 @@
 https://www.ask.com/web?q=crawler
-https://www.ask.com/web?q=crawler&qo=pagination&qsrc=998&page=2
-https://www.ask.com/web?q=crawler&qo=pagination&qsrc=998&page=3
-https://www.ask.com/web?q=crawler&qo=pagination&qsrc=998&page=4
+https://www.ask.com/web?q=crawler&page=2
+https://www.ask.com/web?q=crawler&page=3
+https://www.ask.com/web?q=crawler&page=4
 
 https://www.bing.com/search?q=crawler
 https://www.bing.com/search?q=crawler&first=11
